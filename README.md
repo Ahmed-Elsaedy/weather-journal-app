@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is for Future Work is Digital (FWD) initiative present by Udacity, it is the second project
+This project is for Future Work is Digital (FWD) initiative presented by Udacity, it is the second project
 which is an asynchronous web app that uses Web API and user data to dynamically update the UI.
 
 ## Instructions
